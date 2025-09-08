@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect, useRef } from 'react';
+// import MouseAction from "./mouse-action"
 
 const CreatureAnimation = () => {
   const canvasRef = useRef(null);
