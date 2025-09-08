@@ -76,8 +76,8 @@ export default function AnimatedCircle() {
       ref={circleRef}
       className="circle"
       style={{
-        width: "100px",
-        height: "100px",
+        width: "50px",
+        height: "50px",
         borderRadius: "50%",
         background: "red",
         position: "absolute",
